@@ -1,4 +1,4 @@
-# SmartTubeNext (STN)
+# SmartTubeNext (STN) ["YouTube TV by bilenstore.com-SmartTubeNext"](https://bilenstore.com/).
 
 SmartTubeNext is an advanced YouTube app for **Android TVs** and **TV boxes**, free & open source. It is not a live TV client and does not support ["YouTube TV"](https://tv.youtube.com/).
 
